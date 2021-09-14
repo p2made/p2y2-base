@@ -13,7 +13,7 @@
 
 namespace p2m\base\widgets;
 
-use yii\bootstrap\Html;
+use yii\bootstrap5\Html;
 
 /**
  * Use this helper with...
@@ -50,7 +50,7 @@ use yii\bootstrap\Html;
  * @var protected $_dataVar;
  * @var protected $_encOptions = '';
  */
-class P2WidgetBase extends \yii\bootstrap\Widget
+class P2WidgetBase extends \yii\bootstrap5\Widget
 {
 
 	/**
