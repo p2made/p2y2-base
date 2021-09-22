@@ -7,7 +7,7 @@
  * @link https://github.com/p2made
  * @license MIT
  *
- * @package p2made/yii2-p2y2-base
+ * @package p2made/p2y2-base
  * @class \p2m\base\assets\_ExampleAsset
  */
 
@@ -23,7 +23,7 @@ namespace p2m\base\assets; /* edit this if using elsewhere */
 
 class _ExampleAsset extends \p2m\base\assets\P2AssetBase
 {
-	protected $_p2mProjectId = 'yii2-p2y2-project';
+	protected $_p2mProjectId = 'p2y2-project';
 
 	protected $version = '0.0.0';
 
